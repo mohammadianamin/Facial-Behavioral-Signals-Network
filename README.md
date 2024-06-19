@@ -1,12 +1,11 @@
-Title: Facial Behavioral Signals Network (Private)
+Title: Facial Behavioral Signals Network 
 
 Description:
 
-This private repository contains code for processing and analyzing facial behavioral signals, potentially related to a research project on driver distraction detection using facial behavior analysis. The code provides functionalities for:
+This repository contains code for processing and analyzing facial behavioral signals, potentially related to a research project on driver distraction detection using facial behavior analysis. The code provides functionalities for:
 
 Feature extraction from FACS (Facial Action Coding System) signals (ExtractFeature_facs.m).
 (Potentially) Feature extraction based on correlations (Extract_Cor_Feature.m, functionality inferred from filename).
-Please Note: Due to the repository's private nature, access is restricted.
 
 If you are a collaborator or have been granted access:
 
@@ -23,7 +22,9 @@ The specific correlation-based features and their usage require further examinat
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 **Title:** Extract Features from Facial Action Coding System (FACS) Signals
 
 **Description:**
